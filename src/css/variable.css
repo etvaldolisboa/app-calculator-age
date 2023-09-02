@@ -1,0 +1,13 @@
+:root {
+    --primary: #854dff;
+    --alert-red: #ff5757;
+
+    --white: #ffffff;
+    --off-white: #f0f0f0;
+    --light-grey: #dbdbdb;
+    --smokey-grey: #716f6f;
+    --off-black: #141414;
+
+    --fs-input: 3.2rem;
+    --fs-label: 1.4rem;
+}
